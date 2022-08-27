@@ -1,5 +1,5 @@
 <h1>Manas Coin</h1>
-<strong>This is a repository for the manas coin solana token image<.strong>
+<strong>This is a repository for the manas coin solana token image</strong>
 
 # Manas coin is a Solana fungible token designed to promote positive economic influx int the Republic of Kyrgyzstan 
 # It has a fixed supply of 42 million
